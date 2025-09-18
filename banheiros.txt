@@ -1,0 +1,22 @@
+Banheiros automáticos
+  Para gatos são caixas de areia autolimpantes que usam sensores e mecanismos para remover dejetos sólidos e úmidos, depositando-os em um compartimento fechado. A principal vantagem é a praticidade para o tutor e a higiene constante para o pet. 
+Outras vantagens são:
+-Praticidade na limpeza: Reduz a frequência da limpeza manual, permitindo longos períodos sem necessidade de intervenção, o que é ideal para rotinas agitadas ou viagens curtas.
+-Controle de odor: Equipamentos de ponta usam luzes UV, sistemas desodorizadores e compartimentos fechados para eliminar ou neutralizar odores desagradáveis.
+-Higiene constante: A limpeza automática após cada uso garante que o gato sempre encontre a caixa limpa, o que é ideal para felinos mais exigentes.
+-Monitoramento da saúde: Alguns modelos permitem o monitoramento via aplicativo, com dados sobre a frequência de uso, peso e duração da atividade do gato, o que pode ajudar a identificar problemas de saúde precocemente.
+-Redução da sujeira: Modelos fechados e com esteira de saída evitam que a areia se espalhe pela casa, mantendo o ambiente mais limpo. 
+
+Desvantagens/pontos de atenção:
+-Preço elevado;
+-Adaptação do gato;
+-Possível acúmulo de sujeira;
+-Riscos de segurança (versões antigas), podem nao ter sensores de segurança.
+
+  Para cachorros, atualmente, existem alguns tipos de banheiros que oferecem certo nível de automação para cachorros, mas a maioria ainda exige alguma intervenção do tutor. Diferentemente das caixas de areia autolimpantes para gatos, as opções para cães são mais recentes e variam em tecnologia e preço. O tipo que mais se aproxima de um banheiro totalmente automático é o Sistemas com autolimpeza (como o Inubox): Funciona com sensores de movimento que detectam quando o cão sai da plataforma após fazer suas necessidades. O sistema, então, aciona um mecanismo que recolhe os dejetos sólidos e os deposita em um compartimento com sacolas biodegradáveis.
+Outros tipos não possuem meios eletrônicos, apenas reservatórios e só servem para a urina.
+
+Desvantagens/pontos de atenção:
+-Espaço limitado: eles são projetados para cachocros de porte pequeno em médio;
+-Dependência de energia e baterias: problema com a falta da energia e a troca regular da bateria;
+-Capacidade limitada para resíduos grandes.
