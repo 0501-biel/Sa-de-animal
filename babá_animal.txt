@@ -1,0 +1,10 @@
+Babá animal: A babá animal integraria uma série de sistemas separados montados para cuidar do pet mesmo quando o dono não está presente. Ela seria
+utilizada em junção com diversos aparelhos interconectados para proporcionar segurança para o pet. A babá seria gerenciada com um aplicativo ou
+site que disponibilizaria customização para as funções dos dispositivos conectados a babá eletrônica. Exemplos da vida real onde isso pode ser
+observado são sistemas como o iCam que é sugerido como aplicativo para monitorar ambientes a distância, até reconhecendo movimentação no ambiente.
+O app usa um sistema que integra cameras de dispositivos conectados a internet e ao aplicativo para utilizá-los como câmeras. Outro exemplo é a
+assistente virtual Alexa que possuí diversas capacidades de conexão com outros dispositivos para, nesse caso, ajudar no controle do ambiente para o pet.
+
+Cameras: As cameras são um exemplo de aparelho conectado a babá animal elas seriam utilizadas para o dono conseguir ver claramente o seu pet e ser capaz 
+de observar se está tudo certo com ele. Em relação a babá, o dono seria capaz de observar as cameras através da baba e seria possível a babá notificar caso
+fosse detectada alguma atividade no ambiente da camera e quando foi detectado esse movimento.
