@@ -1,0 +1,10 @@
+Coleiras inteligentes
+  As coleiras inteligentes são dispositivos tecnológicos que, além de prender a guia, oferecem diversas funcionalidades para monitorar a saúde, a localização e o comportamento do pet. Elas são inspiradas em tecnologias como os smartwatches, elas se conectam a aplicativos de celular para fornecer informações valiosas aos tutores.
+Funcionalidades:
+- Rastreamento por GPS: A maioria inclui um rastreador por GPS que permite acompanhar a localização do pet em tempo real através de um aplicativo;
+- Cerca virtual e alertas: É possível delimitar uma "cerca virtual" em uma área segura, como a casa ou quintal, e ser alertado no celular caso o pet ultrapasse esses limites;
+- Monitoramento de saúde: Modelos mais avançados utilizam sensores para coletar dados biométricos do animal. As informações monitoradas podem incluir: frequência cardíaca e respiratória, temperatura corporal, qualidade e duração do sono, nível de atividade física, como movimentação, tempo de descanso e caminhadas, e comportamento físico, como coceira excessiva ou tremores;
+- Controle de comportamento e treinamento: Certas coleiras oferecem recursos de treinamento, como vibração ou sons, que ajudam a reduzir latidos excessivos e auxiliar em comandos de obediência;
+- Comunicação de áudio: Modelos mais modernos permitem que o tutor se comunique com o pet à distância através de microfone e alto-falante integrados. Eles também reproduzir mensagens pré-gravadas para acalmar o animal quando ele estiver estressado;
+- Alertas para animais cegos: Existem coleiras desenvolvidas para auxiliar pets com deficiência visual. Elas identificam obstáculos à frente e emitem alertas vibratórios;
+- Identificação por QR Code: Coleiras mais simples podem ter um QR Code que, ao ser escaneado por quem encontrar o pet, direciona para uma página com as informações de contato do tutor e dados sobre o animal.
