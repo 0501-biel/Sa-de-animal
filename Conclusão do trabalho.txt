@@ -1,0 +1,13 @@
+CONCLUSÃO
+
+	A IoT tem melhorado a convivência de humanos e animais de estimação, trazendo mais conforto e segurança e impactando diretamente a saúde animal. 
+Como visto pela integração entre termostatos e ar-condicionados inteligentes que podem evitar que animais sofram com calor excessivo, mesmo sem intervenção humana;
+Pets podem ser alimentados por comedouros inteligentes quando humanos não estão presentes; 
+Coleiras Inteligentes que podem coletar dados como localização, frequência cardíaca e respiratória do pet aumentando a segurança e etc.
+
+FUTURO DA IOT NA SAÚDE ANIMAL
+
+  O futuro da iot na sáude animal engloba sensores de saúde avançados, promovendo acompanhamento de doenças em tempo real;
+Integração com veterinários, proporcionando o envio automático de dados de saúde para consultas e ambientes totalmente inteligentes,
+onde casas adaptadas para conforto e segurança dos pets podem ser implementadas.
+
